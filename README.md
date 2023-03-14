@@ -1,5 +1,5 @@
 ## Borehole Analysis
-#### Project was built for UBC SmartCity with coffee
+#### Project was built for [UBC SmartCity](https://smartcity.ubc.ca/) with coffee
 This project aim to conduct a regression on North American Boreholes.  The project consist of two important Jupyter notebooks, 
 1. **DataParser** 
 	- Collects the data on North American boreholes by going the [source of data](https://geothermal.earth.lsa.umich.edu/NAM.html) and recursively collecting them in a CSV file.
