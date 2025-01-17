@@ -7,4 +7,4 @@ This project aim to conduct a regression on North American Boreholes.  The proje
 3. **Boreholes Analysis**
 	- Conducts a regression for all North American and Canadian boreholes in the database
 
-##### Data is provide by University of Michigan 
+##### Data is provided by University of Michigan 
